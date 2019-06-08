@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Forex Trading Strategy</string>
+
+
+
+
+
+
+
+
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-7367763732821301~3445958014</string>
+    <string name="banner_home_footer">ca-app-pub-7367763732821301/7750747107</string>
+    <string name="interstitial_full_screen">ca-app-pub-7367763732821301/2022001601</string>
+
+    <!-- AdMob ad TESTING unit ID
+    <string name="fakebanner_home_footer">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="fakeinterstitial_full_screen">ca-app-pub-3940256099942544/1033173712</string>
+
+-->
+
+
+
+
+
+
+
+</resources>
